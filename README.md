@@ -54,8 +54,6 @@ To make this a functional Software Quiz application, the following would be need
 ### 🔗 GitHub Pages
 
 The repository has GitHub Pages enabled with Jekyll. Once content is added, it will be accessible at:
-`https://bas-more.github.io/Software-Quiz/`
+`https://<username>.github.io/Software-Quiz/`
 
----
-
-*Last updated: 2026-01-19*
+(Replace `<username>` with the repository owner's GitHub username)
