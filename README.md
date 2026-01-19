@@ -16,7 +16,7 @@ This repository is currently a **minimal, newly initialized project** for a Soft
 - Question database
 - User interface
 - Testing framework
-- Documentation
+- API or developer documentation
 
 ### Purpose
 
