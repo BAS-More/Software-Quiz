@@ -1,0 +1,7 @@
+title: Software Quiz
+description: Test your software engineering knowledge
+baseurl: ""
+url: "https://bas-more.github.io"
+
+# Build settings
+markdown: kramdown
